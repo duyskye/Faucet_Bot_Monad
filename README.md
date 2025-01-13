@@ -135,4 +135,9 @@ For any inquiries or support, contact the repository owner through GitHub.
 Telegram : https://t.me/LeLyThiTun
 
 
+Twitter  : https://x.com/wiza_panda
+
 Discord  : .dskye
+
+## Demo
+https://discord.com/channels/1263596865233096714/1323416493383225405/1328405506062159933
