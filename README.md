@@ -130,5 +130,9 @@ Feel free to submit issues or pull requests. All contributions are welcome!
 
 ## Contact
 For any inquiries or support, contact the repository owner through GitHub.
+
+
 Telegram : https://t.me/LeLyThiTun
+
+
 Discord  : .dskye
